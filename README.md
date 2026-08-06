@@ -4,7 +4,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=DevOps+Engineer+%7C+AWS+%7C+Docker+%7C+Kubernetes;Building+CI%2FCD+Pipelines+that+ship+fast;Infrastructure+as+Code+with+Terraform+%26+Ansible;Turning+manual+ops+into+automated+pipelines)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=900&lines=DevOps+Engineer+%7C+AWS+%7C+Docker+%7C+Kubernetes;Building+CI%2FCD+Pipelines+that+Ship+Fast;IaC+with+Terraform+%26+Ansible;Automating+Everything+That+Can+Be+Automated)](https://git.io/typing-svg)
 
 </div>
 
